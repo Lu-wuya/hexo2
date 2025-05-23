@@ -6,7 +6,7 @@
   <link href="https://lu-wuya.github.io/hexo2/atom.xml" rel="self"/>
   
   <link href="https://lu-wuya.github.io/hexo2/"/>
-  <updated>2025-04-17T08:56:08.009Z</updated>
+  <updated>2025-05-01T09:04:41.478Z</updated>
   <id>https://lu-wuya.github.io/hexo2/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test One</title>
+    <link href="https://lu-wuya.github.io/hexo2/post/Test%20One/"/>
+    <id>https://lu-wuya.github.io/hexo2/post/Test%20One/</id>
+    <published>2025-04-18T16:33:10.000Z</published>
+    <updated>2025-05-01T09:04:41.478Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Title-1"><a href="#Title-1" class="headerlink" title="Title 1"></a>Title 1</h1><h2 id="Title-2"><a href="#Title-2" class="headerlink" title="Title 2"></a>Title 2</h2><h3 id="Title-3"><a href="#Title-3" class="headerlink" title="Title 3"></a>Title 3</h3><figure class="highlight clean"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs clean"><span class="hljs-keyword">code</span><br><br></code></pre></td></tr></table></figure><img src="/img/bg/background.webp"><p>first line with two spaces after.<br>and the next line</p><p>first line with two spaces after.(后面有俩空格)<br>and the next line</p><p><strong>Blod</strong></p><p><em>Italic</em></p><p><em><strong>Blod and Italic</strong></em></p><blockquote><p>虚化，引用块</p><p>中间&gt;换行</p><blockquote><p>缩进</p><b></blockquote></blockquote><p>test  </p><ol><li></li><li></li><li></li></ol><ul><li></li><li></li></ul><ul><li></li></ul><ul><li></li></ul><hr><hr><hr><p><a href="https://www.bilibili.com/">bilibili</a></p>]]></content>
+    
+    
+    <summary type="html">Zoe</summary>
+    
+    
+    
+    <category term="Test" scheme="https://lu-wuya.github.io/hexo2/categories/Test/"/>
+    
+    
+    <category term="Test" scheme="https://lu-wuya.github.io/hexo2/tags/Test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
